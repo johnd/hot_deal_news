@@ -71,6 +71,7 @@ GEM
       treetop (~> 1.4.8)
     mime-types (1.25.1)
     multi_json (1.8.4)
+    mysql2 (0.3.14)
     orm_adapter (0.5.0)
     polyglot (0.3.3)
     rack (1.4.5)
@@ -180,6 +181,7 @@ PLATFORMS
 DEPENDENCIES
   coffee-rails (~> 3.2.1)
   jquery-rails
+  mysql2
   rails (= 3.2.15)
   refinerycms (~> 2.1.0)
   refinerycms-acts-as-indexed (~> 1.0.0)
