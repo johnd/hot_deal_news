@@ -41,6 +41,9 @@ gem 'mysql2'
 # To use debugger
 # gem 'debugger'
 
+# apparently a JS runtime is needed to run Ruby code now.
+gem 'therubyracer'
+
 # Refinery CMS
 gem 'refinerycms', '~> 2.1.0'
 
